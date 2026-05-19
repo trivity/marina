@@ -35,3 +35,6 @@ next-env.d.ts
 
 # superpowers
 .superpowers/
+
+# playwright test artifacts
+.playwright-mcp/
