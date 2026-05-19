@@ -1,0 +1,93 @@
+{
+  "nav": { "home": "Home", "services": "Services", "about": "About", "contact": "Contact", "cta": "Get a Free Quote" },
+  "hero": {
+    "badge": "German-Certified Electrician · Costa Blanca",
+    "headline1": "Your Home.",
+    "headline2": "Wired Right.",
+    "headline3": "First Time.",
+    "sub": "German-trained, fully certified electrician serving Denia, Jávea and the Costa Blanca. Punctual. Transparent. Multilingual.",
+    "cta1": "Get a Free Quote →",
+    "cta2": "Call Now",
+    "trust1": "★ 5-Star Rated",
+    "trust2": "✓ DE Certified",
+    "trust3": "✓ DE · EN · ES",
+    "trust4": "✓ Always On Time",
+    "videoLabel": "Watch",
+    "videoSub": "Lights on"
+  },
+  "stats": { "years": "YRS EXP.", "languages": "LANGUAGES", "punctual": "PUNCTUAL", "certified": "CERTIFIED" },
+  "services": {
+    "label": "WHAT WE DO",
+    "title": "Services",
+    "viewAll": "View all →",
+    "install": { "title": "New Installations", "desc": "Full wiring for new builds and villa renovations, from consumer unit to every outlet." },
+    "fault": { "title": "Fault Finding & Repair", "desc": "Fast diagnosis of tripping breakers, dead circuits and electrical faults." },
+    "consumer": { "title": "Consumer Unit Upgrades", "desc": "Replace outdated fuse boxes with modern RCD-protected units that meet current regulations." },
+    "smart": { "title": "Smart Home", "desc": "Automation wiring, smart switches and zone lighting control for modern villas." },
+    "cert": { "title": "Electrical Certificates", "desc": "Boletín eléctrico, safety inspections and compliance documentation for property sales." }
+  },
+  "callout": {
+    "badge": "German Standard · Costa Blanca",
+    "headline": "German standard.\nQuality and punctuality.",
+    "sub": "A German-trained electrician who shows up on time, explains the work clearly, and does it right the first time.",
+    "cta": "+49 176 20634487",
+    "response": "Average response: same day"
+  },
+  "reviews": {
+    "label": "WHAT OUR CLIENTS SAY",
+    "title": "5-Star Reviews",
+    "viewAll": "View all on Google →",
+    "r1": { "text": "Excellent work on our villa in Jávea. On time, transparent pricing, explained everything clearly. Will definitely use again.", "author": "Klaus M.", "location": "Jávea" },
+    "r2": { "text": "So refreshing to find an electrician who shows up when they say. German quality — exactly what we needed for our renovation.", "author": "Sarah W.", "location": "Denia" }
+  },
+  "form": {
+    "label": "FREE ESTIMATE",
+    "title": "Get Your Free Quote",
+    "name": "Your name *",
+    "phone": "Phone number *",
+    "email": "Email address *",
+    "service": "Service needed *",
+    "message": "Tell us about your project...",
+    "submit": "→ Submit Quote Request",
+    "sending": "Sending...",
+    "success": "Message sent! We'll be in touch soon.",
+    "error": "Failed to send. Please call us directly.",
+    "s1": "New installation", "s2": "Fault finding", "s3": "Consumer unit upgrade", "s4": "Smart home", "s5": "Electrical certificate", "s6": "Other"
+  },
+  "footer": { "tagline": "German-certified electrician on the Costa Blanca.", "nav": "NAVIGATION", "contact": "GET IN TOUCH", "rights": "© 2026 Marina Alta Electricidad. All rights reserved." },
+  "about": {
+    "pageLabel": "OUR STORY", "pageTitle": "About Us", "pageSub": "German quality with Mediterranean roots.",
+    "storyTitle": "German training,\nMediterranean heart.",
+    "storyP1": "Marina Alta Electricidad was born from the combination of two worlds: the precision and high standards of German electrical training, and the Mediterranean lifestyle of the Costa Blanca.",
+    "storyP2": "Our founder trained and qualified as an electrician in Germany, where punctuality, safety and quality are not optional — they are the minimum standard. After settling in the Denia–Jávea region, he saw the need for that same level of professionalism for the area's international homeowners.",
+    "storyP3": "Today we deliver that German standard directly to your Costa Blanca villa — and we do it in your language.",
+    "v1title": "Punctuality", "v1desc": "We show up when we say we will. Every time.",
+    "v2title": "Transparency", "v2desc": "Clear quotes. No surprises.",
+    "v3title": "Safety First", "v3desc": "Every installation meets DE and ES regulations.",
+    "credLabel": "CREDENTIALS", "credTitle": "Certified. Experienced. Reliable.",
+    "cert1": "Certified electrician — German-trained qualification",
+    "cert2": "Compliance with Spanish electrical regulations (REBT)",
+    "cert3": "Authorised for boletines eléctricos in Valencia",
+    "cert4": "Multilingual: German, English and Spanish",
+    "ctaTitle": "Ready to work together?", "ctaSub": "Free quote · Same-day response", "ctaBtn": "Contact Us →"
+  },
+  "servicesPage": {
+    "pageLabel": "SERVICES", "pageTitle": "Our Services", "pageSub": "Complete electrical installations for villas and homes across the Costa Blanca.",
+    "install": { "title": "New Electrical Installations", "desc": "Full wiring for new builds and complete renovations. From the consumer unit to every outlet and light point.", "includes": ["Consumer units and circuit protection", "Lighting and power circuits", "Sockets and switches throughout", "Kitchen and bathroom wiring", "Certification and electrical certificate"] },
+    "fault": { "title": "Fault Finding & Repairs", "desc": "Fast and accurate diagnosis of any electrical fault. Tripping breakers, dead circuits, flickering lights — we find it and fix it.", "includes": ["Diagnosis with professional equipment", "Repair of faulty circuits", "Replacement of damaged components", "Written report of all work carried out"] },
+    "consumer": { "title": "Consumer Unit Upgrades", "desc": "We replace old and dangerous fuse boxes with modern RCD-protected consumer units that meet current regulations.", "includes": ["Assessment of existing installation", "Supply and fit of new consumer unit", "RCD and MCB protection fitted", "Certification of new installation"] },
+    "smart": { "title": "Smart Home & Automation", "desc": "Electrical infrastructure for smart homes: touch switches, zone lighting control, motorised blinds and more.", "includes": ["Wiring for KNX/Zigbee systems", "Smart switches and dimmers", "Zone-by-zone lighting control", "Integration with home automation systems"] },
+    "cert": { "title": "Electrical Certificates & Inspections", "desc": "Official documentation required for property sales, rentals and new supply connections in the Valencian Community.", "includes": ["Boletín eléctrico (installation certificate)", "Full safety inspection", "Compliance assessment report", "Liaison with electricity distributor"] },
+    "trustLabel": "WHY CHOOSE US",
+    "t1title": "German Certified", "t1desc": "Trained and qualified in Germany.",
+    "t2title": "Multilingual", "t2desc": "We work in German, English and Spanish.",
+    "t3title": "Fully Insured", "t3desc": "Full public liability insurance.",
+    "ctaTitle": "Need one of these services?", "ctaSub": "Free quote · No obligation", "ctaBtn": "Get a Free Quote →"
+  },
+  "contactPage": {
+    "pageLabel": "CONTACT", "pageTitle": "Get in Touch", "pageSub": "Free quotes. Fast response. German precision.",
+    "detailsTitle": "Contact Details",
+    "hours": "Monday–Friday: 8:00–18:00\nSaturday: 9:00–14:00",
+    "hoursLabel": "OFFICE HOURS", "langNote": "We work in German, English and Spanish.", "langLabel": "LANGUAGES"
+  }
+}

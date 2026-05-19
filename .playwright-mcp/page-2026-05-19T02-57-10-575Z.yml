@@ -1,0 +1,200 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "MARINA ALTA ELECTRICIDAD" [ref=e4] [cursor=pointer]:
+        - /url: /en
+        - img [ref=e5]:
+          - generic [ref=e7]: M
+        - generic [ref=e8]:
+          - generic [ref=e9]: MARINA ALTA
+          - generic [ref=e10]: ELECTRICIDAD
+      - list [ref=e11]:
+        - listitem [ref=e12]:
+          - link "Home" [ref=e13] [cursor=pointer]:
+            - /url: /en
+        - listitem [ref=e14]:
+          - link "Services" [ref=e15] [cursor=pointer]:
+            - /url: /en/services
+        - listitem [ref=e16]:
+          - link "About" [ref=e17] [cursor=pointer]:
+            - /url: /en/about
+        - listitem [ref=e18]:
+          - link "Contact" [ref=e19] [cursor=pointer]:
+            - /url: /en/contact
+      - generic [ref=e20]:
+        - generic [ref=e21]: +49 176 20634487
+        - generic [ref=e22]:
+          - link "es" [ref=e23] [cursor=pointer]:
+            - /url: /es/services
+          - link "en" [ref=e24] [cursor=pointer]:
+            - /url: /en/services
+          - link "de" [ref=e25] [cursor=pointer]:
+            - /url: /de/services
+        - link "Get a Free Quote" [ref=e26] [cursor=pointer]:
+          - /url: /en/contact
+  - main [ref=e27]:
+    - generic [ref=e29]:
+      - paragraph [ref=e30]: SERVICES
+      - heading "Our Services" [level=1] [ref=e31]
+      - paragraph [ref=e32]: Complete electrical installations for villas and homes across the Costa Blanca.
+    - generic [ref=e34]:
+      - generic [ref=e36]:
+        - generic [ref=e37]: ⚡
+        - generic [ref=e38]:
+          - heading "New Electrical Installations" [level=3] [ref=e39]
+          - paragraph [ref=e40]: Full wiring for new builds and complete renovations. From the consumer unit to every outlet and light point.
+          - list [ref=e41]:
+            - listitem [ref=e42]:
+              - generic [ref=e43]: ✓
+              - text: Consumer units and circuit protection
+            - listitem [ref=e44]:
+              - generic [ref=e45]: ✓
+              - text: Lighting and power circuits
+            - listitem [ref=e46]:
+              - generic [ref=e47]: ✓
+              - text: Sockets and switches throughout
+            - listitem [ref=e48]:
+              - generic [ref=e49]: ✓
+              - text: Kitchen and bathroom wiring
+            - listitem [ref=e50]:
+              - generic [ref=e51]: ✓
+              - text: Certification and electrical certificate
+      - generic [ref=e53]:
+        - generic [ref=e54]: 🔎
+        - generic [ref=e55]:
+          - heading "Fault Finding & Repairs" [level=3] [ref=e56]
+          - paragraph [ref=e57]: Fast and accurate diagnosis of any electrical fault. Tripping breakers, dead circuits, flickering lights — we find it and fix it.
+          - list [ref=e58]:
+            - listitem [ref=e59]:
+              - generic [ref=e60]: ✓
+              - text: Diagnosis with professional equipment
+            - listitem [ref=e61]:
+              - generic [ref=e62]: ✓
+              - text: Repair of faulty circuits
+            - listitem [ref=e63]:
+              - generic [ref=e64]: ✓
+              - text: Replacement of damaged components
+            - listitem [ref=e65]:
+              - generic [ref=e66]: ✓
+              - text: Written report of all work carried out
+      - generic [ref=e68]:
+        - generic [ref=e69]: 🔌
+        - generic [ref=e70]:
+          - heading "Consumer Unit Upgrades" [level=3] [ref=e71]
+          - paragraph [ref=e72]: We replace old and dangerous fuse boxes with modern RCD-protected consumer units that meet current regulations.
+          - list [ref=e73]:
+            - listitem [ref=e74]:
+              - generic [ref=e75]: ✓
+              - text: Assessment of existing installation
+            - listitem [ref=e76]:
+              - generic [ref=e77]: ✓
+              - text: Supply and fit of new consumer unit
+            - listitem [ref=e78]:
+              - generic [ref=e79]: ✓
+              - text: RCD and MCB protection fitted
+            - listitem [ref=e80]:
+              - generic [ref=e81]: ✓
+              - text: Certification of new installation
+      - generic [ref=e83]:
+        - generic [ref=e84]: 🏡
+        - generic [ref=e85]:
+          - heading "Smart Home & Automation" [level=3] [ref=e86]
+          - paragraph [ref=e87]: "Electrical infrastructure for smart homes: touch switches, zone lighting control, motorised blinds and more."
+          - list [ref=e88]:
+            - listitem [ref=e89]:
+              - generic [ref=e90]: ✓
+              - text: Wiring for KNX/Zigbee systems
+            - listitem [ref=e91]:
+              - generic [ref=e92]: ✓
+              - text: Smart switches and dimmers
+            - listitem [ref=e93]:
+              - generic [ref=e94]: ✓
+              - text: Zone-by-zone lighting control
+            - listitem [ref=e95]:
+              - generic [ref=e96]: ✓
+              - text: Integration with home automation systems
+      - generic [ref=e98]:
+        - generic [ref=e99]: 📋
+        - generic [ref=e100]:
+          - heading "Electrical Certificates & Inspections" [level=3] [ref=e101]
+          - paragraph [ref=e102]: Official documentation required for property sales, rentals and new supply connections in the Valencian Community.
+          - list [ref=e103]:
+            - listitem [ref=e104]:
+              - generic [ref=e105]: ✓
+              - text: Boletín eléctrico (installation certificate)
+            - listitem [ref=e106]:
+              - generic [ref=e107]: ✓
+              - text: Full safety inspection
+            - listitem [ref=e108]:
+              - generic [ref=e109]: ✓
+              - text: Compliance assessment report
+            - listitem [ref=e110]:
+              - generic [ref=e111]: ✓
+              - text: Liaison with electricity distributor
+    - generic [ref=e113]:
+      - paragraph [ref=e114]: WHY CHOOSE US
+      - generic [ref=e115]:
+        - generic [ref=e116]:
+          - generic [ref=e117]: ✓
+          - generic [ref=e118]:
+            - heading "German Certified" [level=3] [ref=e119]
+            - paragraph [ref=e120]: Trained and qualified in Germany.
+        - generic [ref=e121]:
+          - generic [ref=e122]: ✓
+          - generic [ref=e123]:
+            - heading "Multilingual" [level=3] [ref=e124]
+            - paragraph [ref=e125]: We work in German, English and Spanish.
+        - generic [ref=e126]:
+          - generic [ref=e127]: ✓
+          - generic [ref=e128]:
+            - heading "Fully Insured" [level=3] [ref=e129]
+            - paragraph [ref=e130]: Full public liability insurance.
+    - generic [ref=e132]:
+      - heading "Need one of these services?" [level=2] [ref=e133]
+      - paragraph [ref=e134]: Free quote · No obligation
+      - link "Get a Free Quote →" [ref=e135] [cursor=pointer]:
+        - /url: /en/contact
+  - contentinfo [ref=e136]:
+    - generic [ref=e137]:
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - link "MARINA ALTA ELECTRICIDAD" [ref=e140] [cursor=pointer]:
+            - /url: /en
+            - img [ref=e141]:
+              - generic [ref=e143]: M
+            - generic [ref=e144]:
+              - generic [ref=e145]: MARINA ALTA
+              - generic [ref=e146]: ELECTRICIDAD
+          - paragraph [ref=e147]: German-certified electrician on the Costa Blanca.
+        - generic [ref=e148]:
+          - paragraph [ref=e149]: NAVIGATION
+          - list [ref=e150]:
+            - listitem [ref=e151]:
+              - link "Home" [ref=e152] [cursor=pointer]:
+                - /url: /en
+            - listitem [ref=e153]:
+              - link "Services" [ref=e154] [cursor=pointer]:
+                - /url: /en/services
+            - listitem [ref=e155]:
+              - link "About" [ref=e156] [cursor=pointer]:
+                - /url: /en/about
+            - listitem [ref=e157]:
+              - link "Contact" [ref=e158] [cursor=pointer]:
+                - /url: /en/contact
+        - generic [ref=e159]:
+          - paragraph [ref=e160]: GET IN TOUCH
+          - list [ref=e161]:
+            - listitem [ref=e162]: +49 176 20634487
+            - listitem [ref=e163]: marina.alta.electricidad@gmail.com
+            - listitem [ref=e164]:
+              - text: Calle Morell 4
+              - text: Denia, Valencia 03700
+      - generic [ref=e165]:
+        - paragraph [ref=e166]: © 2026 Marina Alta Electricidad. All rights reserved.
+        - generic [ref=e167]:
+          - link "es" [ref=e168] [cursor=pointer]:
+            - /url: /es
+          - link "en" [ref=e169] [cursor=pointer]:
+            - /url: /en
+          - link "de" [ref=e170] [cursor=pointer]:
+            - /url: /de

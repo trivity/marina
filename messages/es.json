@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "cta": "Presupuesto gratis"
+  },
+  "hero": {
+    "badge": "Electricista certificado alemán · Costa Blanca",
+    "headline1": "Tu hogar.",
+    "headline2": "Bien cableado.",
+    "headline3": "A la primera.",
+    "sub": "Electricista formado en Alemania, operando en Denia, Jávea y toda la Costa Blanca. Puntual. Transparente. Multilingüe.",
+    "cta1": "Solicitar presupuesto →",
+    "cta2": "Llamar ahora",
+    "trust1": "★ 5 estrellas",
+    "trust2": "✓ Certificado DE",
+    "trust3": "✓ DE · EN · ES",
+    "trust4": "✓ Siempre puntual",
+    "videoLabel": "Ver vídeo",
+    "videoSub": "Las luces se encienden"
+  },
+  "stats": {
+    "years": "AÑOS EXP.",
+    "languages": "IDIOMAS",
+    "punctual": "PUNTUAL",
+    "certified": "CERTIFICADO"
+  },
+  "services": {
+    "label": "LO QUE HACEMOS",
+    "title": "Servicios",
+    "viewAll": "Ver todos →",
+    "install": { "title": "Nuevas Instalaciones", "desc": "Cableado completo para obras nuevas y reformas de viviendas y villas." },
+    "fault": { "title": "Detección de Averías", "desc": "Diagnóstico rápido de fallos eléctricos, circuitos muertos y disyuntores que saltan." },
+    "consumer": { "title": "Cuadros Eléctricos", "desc": "Sustitución de cajas de fusibles antiguas por unidades modernas con protección RCD." },
+    "smart": { "title": "Smart Home", "desc": "Cableado de automatización, interruptores inteligentes y control de iluminación." },
+    "cert": { "title": "Certificados Eléctricos", "desc": "Boletín eléctrico, inspecciones de seguridad y documentación de cumplimiento." }
+  },
+  "callout": {
+    "badge": "Estándar alemán · Costa Blanca",
+    "headline": "Estándar alemán.\nCalidad y puntualidad.",
+    "sub": "Un electricista formado en Alemania que llega a la hora, explica el trabajo con claridad y lo hace bien a la primera.",
+    "cta": "+49 176 20634487",
+    "response": "Respuesta media: mismo día"
+  },
+  "reviews": {
+    "label": "LO QUE DICEN NUESTROS CLIENTES",
+    "title": "Reseñas 5 estrellas",
+    "viewAll": "Ver todas en Google →",
+    "r1": { "text": "Trabajo excelente en nuestra villa en Jávea. Puntual, precio transparente, explicó todo con claridad. Sin duda repetiré.", "author": "Klaus M.", "location": "Jávea" },
+    "r2": { "text": "Qué alivio encontrar un electricista que llega cuando dice. Calidad alemana, exactamente lo que necesitábamos para nuestra reforma.", "author": "Sarah W.", "location": "Denia" }
+  },
+  "form": {
+    "label": "PRESUPUESTO GRATUITO",
+    "title": "Solicita tu presupuesto",
+    "name": "Nombre *",
+    "phone": "Teléfono *",
+    "email": "Email *",
+    "service": "Servicio necesario *",
+    "message": "Cuéntanos tu proyecto...",
+    "submit": "→ Enviar solicitud",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado! Te contactaremos pronto.",
+    "error": "Error al enviar. Por favor llámanos directamente.",
+    "s1": "Nuevas instalaciones",
+    "s2": "Detección de averías",
+    "s3": "Cuadro eléctrico",
+    "s4": "Smart Home",
+    "s5": "Certificado eléctrico",
+    "s6": "Otro"
+  },
+  "footer": {
+    "tagline": "Electricista certificado alemán en la Costa Blanca.",
+    "nav": "NAVEGACIÓN",
+    "contact": "CONTACTO",
+    "rights": "© 2026 Marina Alta Electricidad. Todos los derechos reservados."
+  },
+  "about": {
+    "pageLabel": "NUESTRA HISTORIA",
+    "pageTitle": "Sobre nosotros",
+    "pageSub": "Calidad alemana con raíces en la Costa Blanca.",
+    "storyTitle": "Formación alemana,\ncorazón mediterráneo.",
+    "storyP1": "Marina Alta Electricidad nació de la combinación de dos mundos: la precisión y los altos estándares de la formación eléctrica alemana, y el estilo de vida mediterráneo de la Costa Blanca.",
+    "storyP2": "Nuestro fundador se formó y certificó como electricista en Alemania, donde la puntualidad, la seguridad y la calidad no son opcionales — son el estándar mínimo. Tras establecerse en la región de Denia–Jávea, vio la necesidad de ese mismo nivel de profesionalismo para los propietarios de viviendas internacionales de la zona.",
+    "storyP3": "Hoy ofrecemos ese estándar alemán directamente en tu villa de la Costa Blanca, y lo hacemos en tu idioma.",
+    "v1title": "Puntualidad", "v1desc": "Llegamos cuando decimos. Siempre.",
+    "v2title": "Transparencia", "v2desc": "Presupuestos claros. Sin sorpresas.",
+    "v3title": "Seguridad primero", "v3desc": "Cada instalación cumple las normativas DE y ES.",
+    "credLabel": "CREDENCIALES",
+    "credTitle": "Certificado. Experimentado. Fiable.",
+    "cert1": "Electricista certificado — formación alemana",
+    "cert2": "Cumplimiento normativa eléctrica española (REBT)",
+    "cert3": "Autorizado para boletines eléctricos en Valencia",
+    "cert4": "Multilingüe: alemán, inglés y español",
+    "ctaTitle": "¿Listo para trabajar juntos?",
+    "ctaSub": "Presupuesto gratuito · Respuesta el mismo día",
+    "ctaBtn": "Contáctanos →"
+  },
+  "servicesPage": {
+    "pageLabel": "SERVICIOS",
+    "pageTitle": "Nuestros servicios",
+    "pageSub": "Instalaciones eléctricas completas para villas y viviendas en la Costa Blanca.",
+    "install": {
+      "title": "Nuevas Instalaciones Eléctricas",
+      "desc": "Cableado completo para obras nuevas y reformas integrales. Desde el cuadro de distribución hasta cada toma y punto de luz.",
+      "includes": ["Cuadros de distribución y protecciones", "Circuitos de iluminación y fuerza", "Tomas de corriente e interruptores", "Cableado para cocinas y baños", "Certificación y boletín eléctrico"]
+    },
+    "fault": {
+      "title": "Detección de Averías y Reparaciones",
+      "desc": "Diagnóstico rápido y preciso de cualquier fallo eléctrico. Disyuntores que saltan, circuitos muertos, parpadeos — lo encontramos y lo solucionamos.",
+      "includes": ["Diagnóstico con equipos profesionales", "Reparación de circuitos defectuosos", "Sustitución de componentes dañados", "Informe escrito del trabajo realizado"]
+    },
+    "consumer": {
+      "title": "Actualización de Cuadros Eléctricos",
+      "desc": "Sustituimos cajas de fusibles antiguas y peligrosas por cuadros modernos con protección diferencial (RCD) que cumplen la normativa vigente.",
+      "includes": ["Evaluación del sistema existente", "Suministro e instalación del nuevo cuadro", "Protecciones RCD e ICP", "Certificación del nuevo cuadro"]
+    },
+    "smart": {
+      "title": "Smart Home y Automatización",
+      "desc": "Infraestructura eléctrica para hogares inteligentes: interruptores táctiles, control de iluminación por zonas, persianas motorizadas y más.",
+      "includes": ["Cableado para sistemas KNX/Zigbee", "Interruptores y reguladores inteligentes", "Control de iluminación por zonas", "Integración con sistemas de domótica"]
+    },
+    "cert": {
+      "title": "Certificados e Inspecciones Eléctricas",
+      "desc": "Documentación oficial necesaria para la venta de inmuebles, alquileres y conexión de nuevos suministros en la Comunitat Valenciana.",
+      "includes": ["Boletín eléctrico (certificado de instalación)", "Inspección de seguridad completa", "Informe de adecuación a normativa", "Gestión ante la distribuidora eléctrica"]
+    },
+    "trustLabel": "POR QUÉ ELEGIRNOS",
+    "t1title": "Certificado alemán", "t1desc": "Formación y certificación en Alemania.",
+    "t2title": "Multilingüe", "t2desc": "Atención en alemán, inglés y español.",
+    "t3title": "Totalmente asegurado", "t3desc": "Seguro de responsabilidad civil completo.",
+    "ctaTitle": "¿Necesitas uno de estos servicios?",
+    "ctaSub": "Presupuesto gratuito · Sin compromiso",
+    "ctaBtn": "Solicitar presupuesto →"
+  },
+  "contactPage": {
+    "pageLabel": "CONTACTO",
+    "pageTitle": "Ponerse en contacto",
+    "pageSub": "Presupuestos gratuitos. Respuesta rápida. Precisión alemana.",
+    "detailsTitle": "Datos de contacto",
+    "hours": "Lunes–Viernes: 8:00–18:00\nSábado: 9:00–14:00",
+    "hoursLabel": "HORARIO",
+    "langNote": "Atendemos en alemán, inglés y español.",
+    "langLabel": "IDIOMAS"
+  }
+}

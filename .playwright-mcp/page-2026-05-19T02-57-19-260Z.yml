@@ -1,0 +1,156 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "MARINA ALTA ELECTRICIDAD" [ref=e4] [cursor=pointer]:
+        - /url: /en
+        - img [ref=e5]:
+          - generic [ref=e7]: M
+        - generic [ref=e8]:
+          - generic [ref=e9]: MARINA ALTA
+          - generic [ref=e10]: ELECTRICIDAD
+      - list [ref=e11]:
+        - listitem [ref=e12]:
+          - link "Home" [ref=e13] [cursor=pointer]:
+            - /url: /en
+        - listitem [ref=e14]:
+          - link "Services" [ref=e15] [cursor=pointer]:
+            - /url: /en/services
+        - listitem [ref=e16]:
+          - link "About" [ref=e17] [cursor=pointer]:
+            - /url: /en/about
+        - listitem [ref=e18]:
+          - link "Contact" [ref=e19] [cursor=pointer]:
+            - /url: /en/contact
+      - generic [ref=e20]:
+        - generic [ref=e21]: +49 176 20634487
+        - generic [ref=e22]:
+          - link "es" [ref=e23] [cursor=pointer]:
+            - /url: /es/contact
+          - link "en" [ref=e24] [cursor=pointer]:
+            - /url: /en/contact
+          - link "de" [ref=e25] [cursor=pointer]:
+            - /url: /de/contact
+        - link "Get a Free Quote" [ref=e26] [cursor=pointer]:
+          - /url: /en/contact
+  - main [ref=e27]:
+    - generic [ref=e29]:
+      - paragraph [ref=e30]: CONTACT
+      - heading "Get in Touch" [level=1] [ref=e31]
+      - paragraph [ref=e32]: Free quotes. Fast response. German precision.
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - heading "Get Your Free Quote" [level=2] [ref=e36]
+        - generic [ref=e37]:
+          - generic [ref=e38]:
+            - textbox "Your name *" [ref=e39]
+            - textbox "Phone number *" [ref=e40]
+          - textbox "Email address *" [ref=e41]
+          - combobox [ref=e42]:
+            - option "Service needed *" [selected]
+            - option "New installation"
+            - option "Fault finding"
+            - option "Consumer unit upgrade"
+            - option "Smart home"
+            - option "Electrical certificate"
+            - option "Other"
+          - textbox "Tell us about your project..." [ref=e43]
+          - button "→ Submit Quote Request" [ref=e44] [cursor=pointer]
+      - generic [ref=e45]:
+        - heading "Contact Details" [level=2] [ref=e46]
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - generic [ref=e49]: 📞
+            - generic [ref=e50]:
+              - generic [ref=e51]: PHONE
+              - link "+49 176 20634487" [ref=e52] [cursor=pointer]:
+                - /url: tel:+4917620634487
+          - generic [ref=e53]:
+            - generic [ref=e54]: ✉️
+            - generic [ref=e55]:
+              - generic [ref=e56]: EMAIL
+              - link "marina.alta.electricidad@gmail.com" [ref=e57] [cursor=pointer]:
+                - /url: mailto:marina.alta.electricidad@gmail.com
+          - generic [ref=e58]:
+            - generic [ref=e59]: 📍
+            - generic [ref=e60]:
+              - generic [ref=e61]: ADDRESS
+              - paragraph [ref=e62]:
+                - text: Calle Morell 4
+                - text: Denia, Valencia 03700
+                - text: Spain
+        - generic [ref=e63]:
+          - generic [ref=e64]: OFFICE HOURS
+          - paragraph [ref=e65]: "Monday–Friday: 8:00–18:00 Saturday: 9:00–14:00"
+        - generic [ref=e66]:
+          - generic [ref=e67]: LANGUAGES
+          - paragraph [ref=e68]: We work in German, English and Spanish.
+          - generic [ref=e69]:
+            - generic [ref=e70]: DE
+            - generic [ref=e71]: EN
+            - generic [ref=e72]: ES
+        - iframe [ref=e74]:
+          - generic [active] [ref=f1e1]:
+            - link "Open in Maps (opens in new tab)" [ref=f1e4] [cursor=pointer]:
+              - /url: about:invalid#zClosurez
+              - text: Open in Maps
+              - img [ref=f1e6]
+            - generic [ref=f1e9]:
+              - region "Map" [ref=f1e10]
+              - iframe [ref=f1e28]:
+                
+  - contentinfo [ref=e75]:
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - link "MARINA ALTA ELECTRICIDAD" [ref=e79] [cursor=pointer]:
+            - /url: /en
+            - img [ref=e80]:
+              - generic [ref=e82]: M
+            - generic [ref=e83]:
+              - generic [ref=e84]: MARINA ALTA
+              - generic [ref=e85]: ELECTRICIDAD
+          - paragraph [ref=e86]: German-certified electrician on the Costa Blanca.
+        - generic [ref=e87]:
+          - paragraph [ref=e88]: NAVIGATION
+          - list [ref=e89]:
+            - listitem [ref=e90]:
+              - link "Home" [ref=e91] [cursor=pointer]:
+                - /url: /en
+            - listitem [ref=e92]:
+              - link "Services" [ref=e93] [cursor=pointer]:
+                - /url: /en/services
+            - listitem [ref=e94]:
+              - link "About" [ref=e95] [cursor=pointer]:
+                - /url: /en/about
+            - listitem [ref=e96]:
+              - link "Contact" [ref=e97] [cursor=pointer]:
+                - /url: /en/contact
+        - generic [ref=e98]:
+          - paragraph [ref=e99]: GET IN TOUCH
+          - list [ref=e100]:
+            - listitem [ref=e101]: +49 176 20634487
+            - listitem [ref=e102]: marina.alta.electricidad@gmail.com
+            - listitem [ref=e103]:
+              - text: Calle Morell 4
+              - text: Denia, Valencia 03700
+      - generic [ref=e104]:
+        - paragraph [ref=e105]: © 2026 Marina Alta Electricidad. All rights reserved.
+        - generic [ref=e106]:
+          - link "es" [ref=e107] [cursor=pointer]:
+            - /url: /es
+          - link "en" [ref=e108] [cursor=pointer]:
+            - /url: /en
+          - link "de" [ref=e109] [cursor=pointer]:
+            - /url: /de
+  - alert [ref=e110]
+  - generic [ref=e115] [cursor=pointer]:
+    - button "Open Next.js Dev Tools" [ref=e116]:
+      - img [ref=e117]
+    - generic [ref=e120]:
+      - button "Open issues overlay" [ref=e121]:
+        - generic [ref=e122]:
+          - generic [ref=e123]: "0"
+          - generic [ref=e124]: "1"
+        - generic [ref=e125]: Issue
+      - button "Collapse issues badge" [ref=e126]:
+        - img [ref=e127]

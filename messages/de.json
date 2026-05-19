@@ -1,0 +1,93 @@
+{
+  "nav": { "home": "Startseite", "services": "Leistungen", "about": "Über uns", "contact": "Kontakt", "cta": "Kostenloses Angebot" },
+  "hero": {
+    "badge": "Deutscher zertifizierter Elektriker · Costa Blanca",
+    "headline1": "Ihr Zuhause.",
+    "headline2": "Fachgerecht",
+    "headline3": "verkabelt.",
+    "sub": "Deutsch ausgebildeter, vollständig zertifizierter Elektriker in Denia, Jávea und der gesamten Costa Blanca. Pünktlich. Transparent. Mehrsprachig.",
+    "cta1": "Kostenloses Angebot →",
+    "cta2": "Jetzt anrufen",
+    "trust1": "★ 5-Sterne",
+    "trust2": "✓ DE-zertifiziert",
+    "trust3": "✓ DE · EN · ES",
+    "trust4": "✓ Immer pünktlich",
+    "videoLabel": "Video",
+    "videoSub": "Licht an"
+  },
+  "stats": { "years": "JAHRE ERF.", "languages": "SPRACHEN", "punctual": "PÜNKTLICH", "certified": "ZERTIFIZIERT" },
+  "services": {
+    "label": "UNSERE LEISTUNGEN",
+    "title": "Leistungen",
+    "viewAll": "Alle ansehen →",
+    "install": { "title": "Neuinstallationen", "desc": "Komplettverdrahtung für Neubauten und Villenrenovierungen, vom Verteilerkasten bis zu jeder Steckdose." },
+    "fault": { "title": "Fehlersuche & Reparatur", "desc": "Schnelle Diagnose von springenden Sicherungen, toten Stromkreisen und elektrischen Fehlern." },
+    "consumer": { "title": "Verteilerkasten-Upgrade", "desc": "Ersetzen Sie veraltete Sicherungskästen durch moderne RCD-geschützte Einheiten." },
+    "smart": { "title": "Smart Home", "desc": "Automationsverdrahtung, intelligente Schalter und Beleuchtungssteuerung für moderne Villen." },
+    "cert": { "title": "Elektrozertifikate", "desc": "Boletín eléctrico, Sicherheitsinspektionen und Konformitätsdokumentation für Immobilienverkäufe." }
+  },
+  "callout": {
+    "badge": "Deutscher Standard · Costa Blanca",
+    "headline": "Deutscher Standard.\nQualität und Pünktlichkeit.",
+    "sub": "Ein deutsch ausgebildeter Elektriker, der pünktlich erscheint, die Arbeit klar erklärt und sie beim ersten Mal richtig macht.",
+    "cta": "+49 176 20634487",
+    "response": "Durchschnittliche Antwort: gleicher Tag"
+  },
+  "reviews": {
+    "label": "WAS UNSERE KUNDEN SAGEN",
+    "title": "5-Sterne Bewertungen",
+    "viewAll": "Alle auf Google ansehen →",
+    "r1": { "text": "Ausgezeichnete Arbeit an unserer Villa in Jávea. Pünktlich, transparente Preisgestaltung, alles klar erklärt. Werden definitiv wieder buchen.", "author": "Klaus M.", "location": "Jávea" },
+    "r2": { "text": "So erfrischend, einen Elektriker zu finden, der erscheint, wenn er es sagt. Deutsche Qualität — genau das, was wir für unsere Renovierung brauchten.", "author": "Sarah W.", "location": "Denia" }
+  },
+  "form": {
+    "label": "KOSTENLOSES ANGEBOT",
+    "title": "Kostenloses Angebot anfragen",
+    "name": "Ihr Name *",
+    "phone": "Telefonnummer *",
+    "email": "E-Mail-Adresse *",
+    "service": "Benötigter Service *",
+    "message": "Erzählen Sie uns von Ihrem Projekt...",
+    "submit": "→ Anfrage senden",
+    "sending": "Wird gesendet...",
+    "success": "Nachricht gesendet! Wir melden uns bald.",
+    "error": "Senden fehlgeschlagen. Bitte rufen Sie uns direkt an.",
+    "s1": "Neuinstallation", "s2": "Fehlersuche", "s3": "Verteilerkasten-Upgrade", "s4": "Smart Home", "s5": "Elektrozertifikat", "s6": "Sonstiges"
+  },
+  "footer": { "tagline": "Deutsch zertifizierter Elektriker an der Costa Blanca.", "nav": "NAVIGATION", "contact": "KONTAKT", "rights": "© 2026 Marina Alta Electricidad. Alle Rechte vorbehalten." },
+  "about": {
+    "pageLabel": "UNSERE GESCHICHTE", "pageTitle": "Über uns", "pageSub": "Deutsche Qualität mit mediterranen Wurzeln.",
+    "storyTitle": "Deutsche Ausbildung,\nmediterranes Herz.",
+    "storyP1": "Marina Alta Electricidad entstand aus der Kombination zweier Welten: der Präzision und den hohen Standards der deutschen Elektrikerausbildung und dem mediterranen Lebensstil der Costa Blanca.",
+    "storyP2": "Unser Gründer absolvierte seine Ausbildung und Zertifizierung als Elektriker in Deutschland, wo Pünktlichkeit, Sicherheit und Qualität keine Optionen sind — sie sind der Mindeststandard.",
+    "storyP3": "Heute liefern wir diesen deutschen Standard direkt an Ihre Villa an der Costa Blanca — und das in Ihrer Sprache.",
+    "v1title": "Pünktlichkeit", "v1desc": "Wir erscheinen, wenn wir es sagen. Immer.",
+    "v2title": "Transparenz", "v2desc": "Klare Angebote. Keine Überraschungen.",
+    "v3title": "Sicherheit zuerst", "v3desc": "Jede Installation erfüllt DE- und ES-Vorschriften.",
+    "credLabel": "QUALIFIKATIONEN", "credTitle": "Zertifiziert. Erfahren. Zuverlässig.",
+    "cert1": "Zertifizierter Elektriker — deutsche Ausbildung",
+    "cert2": "Einhaltung spanischer Elektrovorschriften (REBT)",
+    "cert3": "Autorisiert für Boletines Eléctricos in Valencia",
+    "cert4": "Mehrsprachig: Deutsch, Englisch und Spanisch",
+    "ctaTitle": "Bereit zusammenzuarbeiten?", "ctaSub": "Kostenloses Angebot · Antwort am gleichen Tag", "ctaBtn": "Kontakt aufnehmen →"
+  },
+  "servicesPage": {
+    "pageLabel": "LEISTUNGEN", "pageTitle": "Unsere Leistungen", "pageSub": "Komplette Elektroinstallationen für Villen und Häuser an der Costa Blanca.",
+    "install": { "title": "Neuinstallationen", "desc": "Komplettverdrahtung für Neubauten und Renovierungen.", "includes": ["Verteilerkästen und Schutzeinrichtungen", "Beleuchtungs- und Stromkreise", "Steckdosen und Schalter", "Küchen- und Badezimmerverdrahtung", "Zertifizierung und Elektroattest"] },
+    "fault": { "title": "Fehlersuche & Reparaturen", "desc": "Schnelle und genaue Diagnose jedes Elektrofehlers.", "includes": ["Diagnose mit professionellen Geräten", "Reparatur defekter Stromkreise", "Austausch beschädigter Komponenten", "Schriftlicher Bericht aller durchgeführten Arbeiten"] },
+    "consumer": { "title": "Verteilerkasten-Upgrades", "desc": "Wir ersetzen alte Sicherungskästen durch moderne RCD-geschützte Einheiten.", "includes": ["Bewertung der bestehenden Installation", "Lieferung und Montage des neuen Verteilerkastens", "RCD- und MCB-Schutz", "Zertifizierung der neuen Installation"] },
+    "smart": { "title": "Smart Home & Automatisierung", "desc": "Elektrische Infrastruktur für Smart Homes.", "includes": ["Verdrahtung für KNX/Zigbee-Systeme", "Intelligente Schalter und Dimmer", "Zonenweise Beleuchtungssteuerung", "Integration mit Hausautomationssystemen"] },
+    "cert": { "title": "Elektrozertifikate & Inspektionen", "desc": "Offizielle Dokumentation für Immobilienverkäufe und neue Anschlüsse.", "includes": ["Boletín eléctrico (Installationszertifikat)", "Vollständige Sicherheitsinspektion", "Konformitätsbewertungsbericht", "Koordination mit dem Stromverteiler"] },
+    "trustLabel": "WARUM UNS WÄHLEN",
+    "t1title": "Deutsch zertifiziert", "t1desc": "Ausgebildet und qualifiziert in Deutschland.",
+    "t2title": "Mehrsprachig", "t2desc": "Wir arbeiten auf Deutsch, Englisch und Spanisch.",
+    "t3title": "Vollversichert", "t3desc": "Vollständige Haftpflichtversicherung.",
+    "ctaTitle": "Benötigen Sie einen dieser Services?", "ctaSub": "Kostenloses Angebot · Unverbindlich", "ctaBtn": "Kostenloses Angebot →"
+  },
+  "contactPage": {
+    "pageLabel": "KONTAKT", "pageTitle": "Kontakt aufnehmen", "pageSub": "Kostenlose Angebote. Schnelle Antwort. Deutsche Präzision.",
+    "detailsTitle": "Kontaktdaten",
+    "hours": "Montag–Freitag: 8:00–18:00\nSamstag: 9:00–14:00",
+    "hoursLabel": "ÖFFNUNGSZEITEN", "langNote": "Wir arbeiten auf Deutsch, Englisch und Spanisch.", "langLabel": "SPRACHEN"
+  }
+}

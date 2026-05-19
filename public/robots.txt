@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://marinaaltaelectricidad.com
+
+# Sitemaps
+Sitemap: https://marinaaltaelectricidad.com/sitemap.xml
