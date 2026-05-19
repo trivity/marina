@@ -10,7 +10,7 @@ export default function Hero({ locale }: HeroProps) {
   const headlines = [t('headline1'), t('headline2'), t('headline3')]
 
   return (
-    <section className="pt-14 min-h-[90vh] flex items-center bg-white overflow-hidden">
+    <section className="pt-14 min-h-[90vh] flex items-center bg-[#e7e6eb] overflow-hidden">
       <div className="max-w-6xl mx-auto px-6 w-full grid grid-cols-1 md:grid-cols-2 gap-8 items-center py-16">
 
         <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1] }}>
@@ -18,7 +18,7 @@ export default function Hero({ locale }: HeroProps) {
             initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: 0.1, duration: 0.5 }}
             className="inline-flex items-center gap-2 bg-brand-green/10 border border-brand-green/25 rounded-full px-3 py-1.5 mb-6"
           >
-            <span className="w-1.5 h-1.5 rounded-full bg-brand-green shadow-[0_0_6px_#22c55e]" />
+            <span className="w-1.5 h-1.5 rounded-full bg-brand-green" />
             <span className="text-brand-green text-[9px] font-semibold tracking-[2px] uppercase">{t('badge')}</span>
           </motion.div>
 
@@ -61,15 +61,13 @@ export default function Hero({ locale }: HeroProps) {
           transition={{ delay: 0.3, duration: 0.9, ease: [0.22, 1, 0.36, 1] }}
           className="relative flex items-center justify-center min-h-[400px]"
         >
-          {/* ambient glow behind the video */}
-          <div className="absolute inset-0 bg-gradient-to-br from-transparent to-brand-green/5 rounded-2xl pointer-events-none" />
           <video
             src="/video/light.mp4"
             autoPlay
             muted
             loop
             playsInline
-            className="relative z-10 w-full max-w-[480px] h-auto object-contain drop-shadow-2xl"
+            className="relative z-10 w-full max-w-[480px] h-auto object-contain"
           />
         </motion.div>
       </div>
